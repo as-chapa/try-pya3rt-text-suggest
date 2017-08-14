@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import pya3rt
-APIKEY = "{Your APIKEY}"
+APIKEY = "{Your API Key}"
 previous_description = 'テスト'
 style = 0 # 現代文
 separation = 2 # センテンス
